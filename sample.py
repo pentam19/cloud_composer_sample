@@ -61,3 +61,8 @@ if __name__ == "__main__":
 [2019-09-17 12:52:08,339] {logging_mixin.py:84} INFO - 2017/01/24
 @-@{"workflow": "test_etl", "task-id": "test_job", "execution-date": "2017-01-25T00:00:00"}
 '''
+# first logs
+'''
+[2019-09-17 12:20:31,914] {logging_mixin.py:84} INFO - 2019-09-14
+@-@{"workflow": "test_etl", "task-id": "test_job", "execution-date": "2019-09-15T00:00:00"}
+'''
